@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚀 I am Intern Laravel backend developer at United Airports of Georgia <br> 🔭 I’m currently working on building laravel web apps and python apps<br>🌱 I’m currently learning CS in Kutaisi international University<br>
+🚀 I am Intern Laravel backend developer at United Airports of Georgia <br> 🔭 Currently working on building laravel web apps and python apps <br>🌱 Learning CS in Kutaisi international University<br>
 
 
 ## 🌐 Socials:
