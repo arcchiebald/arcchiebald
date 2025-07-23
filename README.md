@@ -1,4 +1,3 @@
-# 💫 About Me:
 
 🚀 I am Intern Backend developer at United Airports of Georgia <br> 🔭 Currently working on building web and python apps <br>🌱 Learning CS in Kutaisi international University<br>
 
